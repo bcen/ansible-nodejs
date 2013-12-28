@@ -1,12 +1,12 @@
 Node Hotness
 ========
 
-Node, enuff say.
+Node, enuff said.
 
 Requirements
 ------------
 
-None
+Ansible >= 1.4
 
 Role Variables
 --------------
