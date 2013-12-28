@@ -11,10 +11,10 @@ Ansible >= 1.4
 Role Variables
 --------------
 
-```yaml
-# Packages to install globally
-nodejs_global_packages: []
-```
+
+    # Packages to install globally
+    nodejs_global_packages: []
+
 
 Dependencies
 ------------
